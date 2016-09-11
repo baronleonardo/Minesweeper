@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="big_mine">../build-MineSweeper-Desktop-Debug/img/big_mine.png</file>
+        <file alias="flag">../build-MineSweeper-Desktop-Debug/img/flag.png</file>
+        <file alias="howtoplay">../build-MineSweeper-Desktop-Debug/img/howtoplay.png</file>
+        <file alias="restart">../build-MineSweeper-Desktop-Debug/img/restart.png</file>
+        <file alias="settings">../build-MineSweeper-Desktop-Debug/img/settings.png</file>
+        <file alias="wrong_mine">../build-MineSweeper-Desktop-Debug/img/wrong_mine.png</file>
+        <file alias="small_mine">../build-MineSweeper-Desktop-Debug/img/small_mine.png</file>
+    </qresource>
+    
+    <qresource prefix="/files">
+        <file alias="highscoresfile">../build-MineSweeper-Desktop-Debug/highscores/highscores</file>
+        <file alias="settingsfile">../build-MineSweeper-Desktop-Debug/settings/settings</file>
+    </qresource>
+</RCC>
